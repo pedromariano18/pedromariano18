@@ -14,10 +14,10 @@
 
 ### Areas of interest
 
-- Network protocols & performance — HTTP/2, HTTP/3, QUIC, OSPF
-- Network security — PKI, honeypots, intrusion detection
-- Data science & ML applied to networks and systems
-- Systems programming and low-level networking
+- Network architecture, protocol performance and traffic engineering
+- Security infrastructure, PKI, intrusion detection and threat emulation
+- Backend development, system-level scripting and automation
+- Data-driven analysis applied to real-world systems and networks
 
 ---
 
