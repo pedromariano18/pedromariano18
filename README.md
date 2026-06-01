@@ -11,15 +11,9 @@
   </a>
 </p>
 
-<p align="center">
-  Currently focused on network protocols, security, and distributed systems.<br>
-  Previously built a real-time sensor fusion system at <b>Instituto de Telecomunicações Aveiro</b>,<br>
-  integrating radar, weather, and camera data for A25 highway traffic management.
-</p>
-
 ---
 
-### Areas of interest
+### 🔭 Areas of interest
 
 - Network protocols & performance — HTTP/2, HTTP/3, QUIC, OSPF
 - Network security — PKI, honeypots, intrusion detection
@@ -28,7 +22,7 @@
 
 ---
 
-### Tech stack
+### 🛠 Tech stack
 
 **Languages**
 
@@ -36,8 +30,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 **Networking & Security**
 
@@ -46,6 +45,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-333333?style=flat&logo=linux&logoColor=white)
+![OpenSC](https://img.shields.io/badge/OpenSC-1A3A5C?style=flat&logoColor=white)
 
 **Data & ML**
 
@@ -54,25 +56,14 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedromariano18&show_icons=true&hide_border=true&title_color=1A3A5C&icon_color=2E6DA4&text_color=444444&bg_color=fafafa&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromariano18&layout=compact&hide_border=true&title_color=1A3A5C&text_color=444444&bg_color=fafafa&langs_count=6&hide=html,css" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedromariano18&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=1A3A5C&fire=2E6DA4&currStreakLabel=1A3A5C&sideLabels=444444&dates=888888&currStreakNum=1A3A5C&sideNums=1A3A5C&background=fafafa" />
-</p>
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
