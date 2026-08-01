@@ -29,8 +29,8 @@ BSc Computer Engineering · Universidade de Aveiro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedromariano18&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromariano18&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pedromariano18&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedromariano18&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromariano18&theme=dark&hide_border=true" alt="Streak stats"/>
 
@@ -42,18 +42,11 @@ BSc Computer Engineering · Universidade de Aveiro
 
 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bash,latex,matlab" alt="Language icons"/>
+
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](#)
 [![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)](#)
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](#)
-[![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat&logo=mathworks&logoColor=white)](#)
 
 **Networking & Security**
 
