@@ -1,10 +1,12 @@
 <div align="center">
 
+# Pedro Mariano
+
 <a href="https://github.com/pedromariano18">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duplex=false&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Pedro+Mariano;MSc+Network+%26+Computer+Systems+Eng.;Network+Security+%7C+PKI+%7C+SOC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duplex=false&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=MSc+Network+%26+Computer+Systems+Eng.;Network+Security+%7C+PKI+%7C+SOC" alt="Typing SVG" />
 </a>
 
-**MSc Network & Computer Systems Engineering** · FCUP, Universidade do Porto
+**MSc Network & Computer Systems Engineering** · FCUP, Universidade do Porto<br/>
 BSc Computer Engineering · Universidade de Aveiro
 
 <a href="https://www.linkedin.com/in/pedro-mariano-654b44376" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42"/></a>
