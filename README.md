@@ -29,33 +29,36 @@ BSc Computer Engineering · Universidade de Aveiro
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bash,latex,matlab" alt="Language icons" height="48"/>
-<img src="https://img.shields.io/badge/-%20-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" title="SQL" height="48"/>
-<img src="https://img.shields.io/badge/-VHDL-543978?style=flat-square" alt="VHDL" title="VHDL" height="48"/>
-<img src="https://img.shields.io/badge/-ASM-6E4C13?style=flat-square" alt="Assembly" title="Assembly" height="48"/>
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bash,latex,matlab,postgres" alt="Language icons" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge" alt="VHDL" height="28"/>
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly" height="28"/>
 
 **Networking & Security**
 
 <img src="https://skillicons.dev/icons?i=linux,docker" alt="Networking icons" height="48"/>
-<img src="https://img.shields.io/badge/-%20-FF6600?style=flat-square&logo=cisco&logoColor=white" alt="GNS3" title="GNS3" height="48"/>
-<img src="https://img.shields.io/badge/-%20-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" title="Wireshark" height="48"/>
-<img src="https://img.shields.io/badge/-NM-214478?style=flat-square" alt="Nmap" title="Nmap" height="48"/>
-<img src="https://img.shields.io/badge/-%20-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" title="VirtualBox" height="48"/>
-<img src="https://img.shields.io/badge/-%20-333333?style=flat-square&logo=linux&logoColor=white" alt="iptables" title="iptables" height="48"/>
-<img src="https://img.shields.io/badge/-OSC-1A3A5C?style=flat-square" alt="OpenSC" title="OpenSC" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/GNS3-FF6600?style=for-the-badge&logo=cisco&logoColor=white" alt="GNS3" height="28"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="28"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap" height="28"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" height="28"/>
+<img src="https://img.shields.io/badge/iptables-333333?style=for-the-badge&logo=linux&logoColor=white" alt="iptables" height="28"/>
+<img src="https://img.shields.io/badge/OpenSC-1A3A5C?style=for-the-badge" alt="OpenSC" height="28"/>
 
 **Data & ML**
 
 <img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="Data icons" height="48"/>
-<img src="https://img.shields.io/badge/-%20-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy" height="48"/>
-<img src="https://img.shields.io/badge/-%20-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" title="pandas" height="48"/>
-<img src="https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white" alt="NetworkX" title="NetworkX" height="48"/>
-<img src="https://img.shields.io/badge/-%20-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe" title="MediaPipe" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="28"/>
+<img src="https://img.shields.io/badge/NetworkX-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" height="28"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" height="28"/>
 
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools icons" height="48"/>
-<img src="https://img.shields.io/badge/-%20-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" title="Overleaf" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" height="28"/>
 
 ---
 
