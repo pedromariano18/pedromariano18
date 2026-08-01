@@ -29,37 +29,33 @@ BSc Computer Engineering · Universidade de Aveiro
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bash,latex,matlab" alt="Language icons"/>
-
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
-[![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)](#)
-[![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bash,latex,matlab" alt="Language icons" height="48"/>
+<img src="https://img.shields.io/badge/-%20-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" title="SQL" height="48"/>
+<img src="https://img.shields.io/badge/-VHDL-543978?style=flat-square" alt="VHDL" title="VHDL" height="48"/>
+<img src="https://img.shields.io/badge/-ASM-6E4C13?style=flat-square" alt="Assembly" title="Assembly" height="48"/>
 
 **Networking & Security**
 
-<img src="https://skillicons.dev/icons?i=linux,docker" alt="Networking icons"/>
-
-[![GNS3](https://img.shields.io/badge/GNS3-FF6600?style=flat&logo=cisco&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](#)
-[![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logoColor=white)](#)
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](#)
-[![iptables](https://img.shields.io/badge/iptables-333333?style=flat&logo=linux&logoColor=white)](#)
-[![OpenSC](https://img.shields.io/badge/OpenSC-1A3A5C?style=flat&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=linux,docker" alt="Networking icons" height="48"/>
+<img src="https://img.shields.io/badge/-%20-FF6600?style=flat-square&logo=cisco&logoColor=white" alt="GNS3" title="GNS3" height="48"/>
+<img src="https://img.shields.io/badge/-%20-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" title="Wireshark" height="48"/>
+<img src="https://img.shields.io/badge/-NM-214478?style=flat-square" alt="Nmap" title="Nmap" height="48"/>
+<img src="https://img.shields.io/badge/-%20-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" title="VirtualBox" height="48"/>
+<img src="https://img.shields.io/badge/-%20-333333?style=flat-square&logo=linux&logoColor=white" alt="iptables" title="iptables" height="48"/>
+<img src="https://img.shields.io/badge/-OSC-1A3A5C?style=flat-square" alt="OpenSC" title="OpenSC" height="48"/>
 
 **Data & ML**
 
-<img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="Data icons"/>
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](#)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
-[![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="Data icons" height="48"/>
+<img src="https://img.shields.io/badge/-%20-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy" height="48"/>
+<img src="https://img.shields.io/badge/-%20-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" title="pandas" height="48"/>
+<img src="https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white" alt="NetworkX" title="NetworkX" height="48"/>
+<img src="https://img.shields.io/badge/-%20-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe" title="MediaPipe" height="48"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools icons"/>
-
-[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools icons" height="48"/>
+<img src="https://img.shields.io/badge/-%20-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" title="Overleaf" height="48"/>
 
 ---
 
