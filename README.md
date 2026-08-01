@@ -25,19 +25,6 @@ BSc Computer Engineering · Universidade de Aveiro
 
 ---
 
-### GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=pedromariano18&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedromariano18&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedromariano18&theme=dark&hide_border=true" alt="Streak stats"/>
-
-</div>
-
----
-
 ### Tech stack
 
 **Languages**
@@ -50,10 +37,10 @@ BSc Computer Engineering · Universidade de Aveiro
 
 **Networking & Security**
 
+<img src="https://skillicons.dev/icons?i=linux,docker" alt="Networking icons"/>
+
 [![GNS3](https://img.shields.io/badge/GNS3-FF6600?style=flat&logo=cisco&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logoColor=white)](#)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](#)
 [![iptables](https://img.shields.io/badge/iptables-333333?style=flat&logo=linux&logoColor=white)](#)
@@ -61,18 +48,18 @@ BSc Computer Engineering · Universidade de Aveiro
 
 **Data & ML**
 
+<img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="Data icons"/>
+
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](#)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](#)
 [![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)](#)
 
 **Tools**
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools icons"/>
+
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](#)
 
 ---
 
