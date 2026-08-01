@@ -7,8 +7,9 @@
 **MSc Network & Computer Systems Engineering** · FCUP, Universidade do Porto
 BSc Computer Engineering · Universidade de Aveiro
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-mariano-654b44376)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariano.pedro2003@gmail.com)
+<a href="https://www.linkedin.com/in/pedro-mariano-654b44376" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42"/></a>
+&nbsp;&nbsp;
+<a href="mailto:mariano.pedro2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42"/></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pedromariano18&color=1A3A5C&style=flat&label=profile+views)
 
@@ -30,35 +31,35 @@ BSc Computer Engineering · Universidade de Aveiro
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,bash,latex,matlab,postgres" alt="Language icons" height="48"/>
-<br/>
-<img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge" alt="VHDL" height="28"/>
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly" height="28"/>
+
+<img src="https://img.shields.io/badge/VHDL-1A3A5C?style=for-the-badge&logoColor=white" alt="VHDL" height="26"/>
+<img src="https://img.shields.io/badge/Assembly-1A3A5C?style=for-the-badge&logoColor=white" alt="Assembly" height="26"/>
 
 **Networking & Security**
 
 <img src="https://skillicons.dev/icons?i=linux,docker" alt="Networking icons" height="48"/>
-<br/>
-<img src="https://img.shields.io/badge/GNS3-FF6600?style=for-the-badge&logo=cisco&logoColor=white" alt="GNS3" height="28"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="28"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap" height="28"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" height="28"/>
-<img src="https://img.shields.io/badge/iptables-333333?style=for-the-badge&logo=linux&logoColor=white" alt="iptables" height="28"/>
-<img src="https://img.shields.io/badge/OpenSC-1A3A5C?style=for-the-badge" alt="OpenSC" height="28"/>
+
+<img src="https://img.shields.io/badge/GNS3-1A3A5C?style=for-the-badge&logo=cisco&logoColor=white" alt="GNS3" height="26"/>
+<img src="https://img.shields.io/badge/Wireshark-1A3A5C?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="26"/>
+<img src="https://img.shields.io/badge/Nmap-1A3A5C?style=for-the-badge&logoColor=white" alt="Nmap" height="26"/>
+<img src="https://img.shields.io/badge/VirtualBox-1A3A5C?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" height="26"/>
+<img src="https://img.shields.io/badge/iptables-1A3A5C?style=for-the-badge&logo=linux&logoColor=white" alt="iptables" height="26"/>
+<img src="https://img.shields.io/badge/OpenSC-1A3A5C?style=for-the-badge&logoColor=white" alt="OpenSC" height="26"/>
 
 **Data & ML**
 
 <img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="Data icons" height="48"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="28"/>
-<img src="https://img.shields.io/badge/NetworkX-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" height="28"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" height="28"/>
+
+<img src="https://img.shields.io/badge/NumPy-1A3A5C?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="26"/>
+<img src="https://img.shields.io/badge/pandas-1A3A5C?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="26"/>
+<img src="https://img.shields.io/badge/NetworkX-1A3A5C?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" height="26"/>
+<img src="https://img.shields.io/badge/MediaPipe-1A3A5C?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" height="26"/>
 
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools icons" height="48"/>
-<br/>
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" height="28"/>
+
+<img src="https://img.shields.io/badge/Overleaf-1A3A5C?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" height="26"/>
 
 ---
 
